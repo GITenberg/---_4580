@@ -1,0 +1,25 @@
+_repo: '---_4580'
+_version: 0.0.1
+alternative_title: Fen Zhuang Lou — Complete
+creator:
+  author:
+    agent_name: Luo, Guanzhong
+    alias: 羅貫中
+    gutenberg_agent_id: '1511'
+    url: http://www.gutenberg.org/2009/agents/1511
+    wikipedia: http://en.wikipedia.org/wiki/Luo_Guanzhong
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4580'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Tang dynasty, 618-907 -- Fiction'
+- !lcc 'PL'
+- GITenberg
+title: 粉妝樓
+url: http://www.gutenberg.org/ebooks/4580
